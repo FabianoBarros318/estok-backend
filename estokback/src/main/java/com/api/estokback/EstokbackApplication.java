@@ -8,6 +8,8 @@ public class EstokbackApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EstokbackApplication.class, args);
+		System.out.println("Api do web app estok rodando!");
+
 	}
 
 }
